@@ -9,5 +9,5 @@
 
 Endpoint | Parameters | Description
 ------------ | ------------- | -------------
-`POST /token` |  | generate token 
+`POST /token` |  | generates token 
 `POST /pixel` | `pixelType` _string_ <br />`userId` _integer_ <br /> `occuredOn` _integer_ <br /> `portalId` _integer_ | creates pixel
